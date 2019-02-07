@@ -2,7 +2,9 @@ Objective: Create an Amazon-like storefront with MySQL skills. The app will take
 
 Contributors: Adam Jacobs
 
-History: Var's originally used, then changed to let/const. let can be updated and not re-declared.
+History: SQL Errors: Auto_Increment needed to be removed from schema.sql and changed to IDENTITY(1, 1). Various other errors encoutered and troubleshooted through online research.
+
+Hat tip to: Stackoverflow, various Youtube videos and numerous other online resources.
 
 Functionality:
 
