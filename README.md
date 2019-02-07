@@ -13,11 +13,7 @@ Customer View:
 ![](images/bamazon2.JPG)
 
 Manager View:
-
-![](images/bamazon3.JPG)
-
 ![](images/bamazon4.JPG)
 
 Supervisor View:
-
 ![](images/bamazon5.JPG)
