@@ -8,9 +8,9 @@ Functionality:
 
 Customer View:
 
-![](images/bamazon1.JPG)
+![](images/Bamazon1.JPG)
 
-![](images/bamazon2.JPG)
+![](images/Bamazon2.JPG)
 
 Manager View:
 ![](images/bamazon3.JPG)
